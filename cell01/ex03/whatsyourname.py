@@ -1,0 +1,1 @@
+print(whole_name)
